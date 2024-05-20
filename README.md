@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 # EduHub
 
 It is a responsive frontend Web Application created using ReactJs + CSS.It consists all the different section that a basic Educational Website have. Also there is reCaptcha authentication in the contact section for human authentication before coming in touch.
+Unfortunately due to unavailability of pro subsrciption the google recaptcha work only for window.Sorry for the inconvenience of the mobile users.They did need any verification for sending messages.
 Also attach a college video in About section of site.
 
 
