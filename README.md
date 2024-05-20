@@ -39,7 +39,7 @@ If you have any feedback, please reach out to us at 0312tarun@gmail.com
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+Javascript, HTML, CSS, ReactJS
 
 
 ## Demo
